@@ -1,0 +1,25 @@
+{
+  "name": "kahootbot",
+  "version": "1.0.0",
+  "description": "Bot Kahoot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeje720/KahootBot.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "jeje720",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeje720/KahootBot/issues"
+  },
+  "homepage": "https://github.com/jeje720/KahootBot#readme",
+  "dependencies": {
+    "kahoot.js-updated": "^2.2.1"
+  }
+}
